@@ -36,7 +36,7 @@ Farmers face challenges in accessing markets and fair prices due to intermediari
 ## ⚡ Getting Started
 1. Clone repo:  
    ```bash
-   git clone https://github.com/aroraaastha/Agriverse.git
+   git clone https://github.com/aroraaastha/Agriverse-.git
 Install dependencies (backend + frontend).
 
 Configure database in server.js.
